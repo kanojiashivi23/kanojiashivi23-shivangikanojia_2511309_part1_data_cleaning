@@ -65,7 +65,7 @@ The resulting `outputs/pivot_summary.xlsx` workbook contains 6 dedicated analyti
 ---
 
 ## 8. Key Business Insights
-*   **Regional Dominance:** The **South Region** leads gross incoming volume with **$1,554,249.65** in verified completed sales, while the **West Region** demonstrates the highest ultimate efficiency, returning a net profit of **$438,479.03**.
+*   **Regional Dominance:** The **South Region** leads gross incoming volume with **₹1,554,249.65** in verified completed sales, while the **West Region** demonstrates the highest ultimate efficiency, returning a net profit of **₹438,479.03**.
 *   **Fulfillment Operations:** **Standard Class** represents your primary logistics mechanism, clearing **242 total shipments** and making up the bulk of your active fulfillment footprint.
 *   **Segment Profitability:** The **Small Business** segment yields the highest operational returns, leading performance benchmarks with an average profit margin of **30%**, closely followed by Home Office at **29%**.
 
